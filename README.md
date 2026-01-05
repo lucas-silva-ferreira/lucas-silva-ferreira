@@ -148,3 +148,22 @@ Sou apaixonado por tecnologia e tenho grande entusiasmo por desenvolvimento de s
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasinfort.i@gmail.com)
 
 ---
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats-fast.vercel.app/api?username=lucas-silva-ferreira&show_icons=true&theme=dracula&locale=pt-br" 
+  />
+
+<!-- <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&theme=dracula" 
+  /> -->
+
+</p>
