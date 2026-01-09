@@ -2,8 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Lucas Silva Ferreira, tenho 32 anos e sou natural de Minas Gerais. Concluí o Ensino Médio com formação técnica em Informática pela Escola Estadual Martin Cyprien. Sou bacharel em Análise e Desenvolvimento de Sistemas pela Faculdade Pitágoras.
-Sou apaixonado por tecnologia e tenho grande entusiasmo por desenvolvimento de sistemas, especialmente na área de desenvolvimento full stack, onde atuo tanto no front-end quanto no back-end. Gosto de transformar ideias em soluções funcionais e intuitivas, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+Meu nome é Lucas Silva Ferreira, tenho 32 anos e sou natural de Minas Gerais. Concluí o Ensino Médio na Escola Estadual Martin Cyprien e, em seguida, iniciei minha formação técnica em Informática pelo instituto CECOM. Sou bacharel em Análise e Desenvolvimento de Sistemas pela Faculdade Pitágoras. Apaixonado por tecnologia, tenho grande entusiasmo pelo desenvolvimento de sistemas, especialmente na área full stack, atuando tanto no front-end quanto no back-end. Gosto de transformar ideias em soluções funcionais e intuitivas, sempre em busca de novos aprendizados e do aprimoramento contínuo das minhas habilidades.
 
 ---
 
